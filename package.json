@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/luislobo9b/wrapper-tmp/issues"
   },
-  "homepage": "https://github.com/luislobo9b/wrapper-tmp#readme"
+  "homepage": "https://github.com/luislobo9b/wrapper-tmp#readme",
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
 }
